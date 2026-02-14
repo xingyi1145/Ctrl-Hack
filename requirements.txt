@@ -2,3 +2,6 @@ pynput
 pyperclip
 pyautogui
 customtkinter
+python-dotenv
+groq
+
