@@ -269,3 +269,54 @@ I am experiencing a bu...'
 2026-02-14 13:24:26,581 [Explain] Question: summarize what it does
 2026-02-14 13:24:28,431 [Explain] Showing explanation...
 2026-02-14 13:24:28,431 [Explain] Done.
+2026-02-14 13:26:29,827 Main script starting...
+2026-02-14 13:26:29,968  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 13:26:29,968 Initializing App
+2026-02-14 13:26:30,994 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 13:26:38,124 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:26:42,556 Processing Commander: Test 1
+2026-02-14 13:26:52,374 Commander done.
+2026-02-14 13:26:58,490 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:27:01,970 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:28:33,456 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:28:49,120 [Explain] Question: explain to me what these does
+2026-02-14 13:28:52,767 [Explain] Showing explanation...
+2026-02-14 13:28:52,767 [Explain] Done.
+2026-02-14 13:29:47,720 Main script starting...
+2026-02-14 13:29:47,863  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 13:29:47,863 Initializing App
+2026-02-14 13:29:48,872 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 13:29:51,950 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:30:00,710 [Explain] Question: explain to me what these line does
+2026-02-14 13:30:05,487 [Explain] Showing explanation...
+2026-02-14 13:30:05,492 [Explain] Done.
+2026-02-14 13:37:00,942 Main script starting...
+2026-02-14 13:37:01,094  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 13:37:01,094 Initializing App
+2026-02-14 13:37:02,091 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 13:37:38,124 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:37:45,372 [Explain] Question: Help me summarize this
+2026-02-14 13:37:46,518 [Explain] Showing explanation...
+2026-02-14 13:37:46,518 [Explain] Done.
+2026-02-14 13:38:09,019 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:38:19,776 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:38:26,748 [Explain] Question: Help me summarize this
+2026-02-14 13:38:27,930 [Explain] Showing explanation...
+2026-02-14 13:38:27,930 [Explain] Done.
+2026-02-14 13:38:44,588 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:38:52,423 [Explain] Question: explain in detail what these lines does
+2026-02-14 13:38:58,177 [Explain] Showing explanation...
+2026-02-14 13:38:58,177 [Explain] Done.
+2026-02-14 13:39:23,653 [Explain] Triggered (Ctrl+Alt+E)
+2026-02-14 13:40:03,281 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:40:11,034 Processing Commander: only keep the prompt part
+2026-02-14 13:40:13,249 Commander done.
+2026-02-14 13:40:16,117 [Diff] User accepted. Pasting...
+2026-02-14 13:43:10,152 Main script starting...
+2026-02-14 13:43:10,293  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 13:43:10,293 Initializing App
+2026-02-14 13:43:11,233 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 13:43:12,656 [Commander] Triggered (Ctrl+Space)
+2026-02-14 13:43:21,081 Processing Commander: fix grammer
+2026-02-14 13:43:23,616 Commander done.
+2026-02-14 13:43:27,686 [Diff] User accepted. Pasting...
