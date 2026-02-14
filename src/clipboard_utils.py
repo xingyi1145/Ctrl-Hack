@@ -31,7 +31,20 @@ def capture_selection(timeout=0.5):
 
     # 3. Simulate Copy
     system = platform.system()
-    
+
+    # FIX: Release modifiers to prevent "Sticky Alt" bug (e.g. Ctrl+Alt+C instead of Ctrl+C)
+    if keyboard_controller:
+        # Release Alt keys
+        keyboard_controller.release(Key.alt)
+        keyboard_controller.release(Key.alt_l)
+        keyboard_controller.release(Key.alt_r)
+        # Release Ctrl keys
+        keyboard_controller.release(Key.ctrl)
+        keyboard_controller.release(Key.ctrl_l)
+        keyboard_controller.release(Key.ctrl_r)
+        
+        time.sleep(0.1) # Let OS register key up
+
     # Use 'keyboard' library on Linux if available (for Wayland support)
     if system == "Linux" and keyboard_lib:
         time.sleep(0.05)

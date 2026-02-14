@@ -240,3 +240,13 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-02-14 13:12:56,158 [Explain] No text selected.
 2026-02-14 13:13:05,291 [Explain] Triggered (Ctrl+Shift+E)
 2026-02-14 13:13:05,862 [Explain] No text selected.
+2026-02-14 13:15:34,567 Main script starting...
+2026-02-14 13:15:34,732  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 13:15:34,733 Initializing App
+2026-02-14 13:15:35,665 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 13:15:41,946 [Explain] Triggered (Ctrl+Shift+E)
+2026-02-14 13:15:42,177 [Explain] Processing text: 'The "Sticky Alt" Fix Prompt
+I am experiencing a bu...'
+2026-02-14 13:15:42,177 [Explain] Sending to AI...
+2026-02-14 13:15:48,122 [Explain] Showing explanation...
+2026-02-14 13:15:48,122 [Explain] Done.
