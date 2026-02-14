@@ -154,3 +154,17 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-02-14 12:18:44,555 Processing Commander: fix grammer
 2026-02-14 12:18:45,538 Commander done.
 2026-02-14 12:18:52,741 [Diff] User accepted. Pasting...
+2026-02-14 12:21:54,772 Main script starting...
+2026-02-14 12:21:54,911  WARNING: Not running as Administrator. Global hotkeys may fail. Right-click your terminal and select 'Run as Administrator'.
+2026-02-14 12:21:54,911 Initializing App
+2026-02-14 12:21:55,861 Starting Hotkey Listener (Backend: pynput)...
+2026-02-14 12:22:00,212 [Refactor] Triggered (Ctrl+Shift+H)
+2026-02-14 12:22:00,795 [Refactor] No text selected.
+2026-02-14 12:22:04,669 [Commander] Triggered (Ctrl+Space)
+2026-02-14 12:22:11,224 Processing Commander: fix grammer
+2026-02-14 12:22:12,683 Commander done.
+2026-02-14 12:22:14,556 [Diff] User accepted. Pasting...
+2026-02-14 12:22:18,463 [Commander] Triggered (Ctrl+Space)
+2026-02-14 12:22:37,168 Processing Commander: tell me where is the grammer issue
+2026-02-14 12:22:38,749 Commander done.
+2026-02-14 12:22:47,085 [Diff] User accepted. Pasting...

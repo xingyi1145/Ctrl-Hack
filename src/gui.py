@@ -200,6 +200,12 @@ class DiffWindow(ctk.CTkToplevel):
     # --- Actions ---
     def _accept(self):
         final_text = self.proposal_box.get("1.0", "end-1c")
+        
+        # Hide window immediately and force update to return focus to underlying app
+        self.withdraw()
+        self.update_idletasks()
+        time.sleep(0.2)  # Give OS time to switch focus back
+
         if self.on_accept_callback:
             self.on_accept_callback(final_text)
         self.destroy()
