@@ -56,9 +56,7 @@ Select code or text and ask questions about it (e.g., "What does this Regex do?"
 3. **Configure API Keys:**
    Create a `.env` file in the root directory:
    ```env
-   GOOGLE_API_KEY=your_gemini_api_key
-   # GROQ_API_KEY=your_groq_api_key (Optional)
-   AI_PROVIDER=gemini
+   GEMINI_API_KEY=your_gemini_api_key
    ```
 
 4. **Run the application:**
@@ -71,7 +69,3 @@ Select code or text and ask questions about it (e.g., "What does this Regex do?"
 1.  Locate the `.exe` file (built via `build_exe.py`).
 2.  **Important**: Place your `.env` file in the **same folder** as the `.exe`.
 3.  Double-click `Ctrl-AI.exe` to launch. The app runs in the background.
-
-## License
-
-MIT
